@@ -1,5 +1,9 @@
-/** @format */
-
-node_modules.next.git.env.local;
-Dockerfile.dockerignore;
-npm - debug.log;
+node_modules
+.next
+build
+.git
+.env
+.env.local
+Dockerfile
+.dockerignore
+npm-debug.log
