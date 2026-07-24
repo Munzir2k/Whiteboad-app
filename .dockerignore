@@ -1,0 +1,5 @@
+/** @format */
+
+node_modules.next.git.env.local;
+Dockerfile.dockerignore;
+npm - debug.log;
